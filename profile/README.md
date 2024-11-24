@@ -1,6 +1,6 @@
 # Welcome to the devEco
 
-A technical ecosystem, built by developers | for developers.
+A technical ecosystem of communities and open source projects, built by developers | for developers.
 
 Our mission is to cultivate a vibrant and engaging community where developers connect, learn, and innovate, guided by transparency, shared ownership, and open collaboration.
 
